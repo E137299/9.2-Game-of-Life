@@ -17,8 +17,12 @@ The “Game of Life” is a computer simulation of the life and death events of 
 1. Write a program that implements the game of Life. The size of the grid will be a square 20 x 20. 
 
 2. After your program has initialized the grid with generation 0, your program must allow Life to 
-proceed for 5 generations. 
-3. Display the final results on the screen and determine the following statistical information: 
+proceed for 5 generations.
+
+Generation 0:
+![Game Of Life](assets/game.png)
+
+4. Display the final results on the screen and determine the following statistical information: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The number of living cells in row 10. 
 
@@ -30,9 +34,9 @@ proceed for 5 generations.
 <br></br>
 **Instructions: **
 
-1. A sample run output is given below. Note, these are the correct answers if you use the String[][][] grid.
+1. A sample run output is given below. Note, these are the correct answers if you use the String[][] grid.
 
-![Game Of Life](assets/game.png)
+![Game Of Life](assets/game.PNG)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number in Row 10 ---> 8 
 
