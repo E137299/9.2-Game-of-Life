@@ -32,7 +32,7 @@ proceed for 5 generations.
 
 1. A sample run output is given below. Note, these are the correct answers if you use the String[][][] grid.
 
-![Game Of Life](assets/game.PNG)
+![Game Of Life](assets/game.png)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number in Row 10 ---> 8 
 
